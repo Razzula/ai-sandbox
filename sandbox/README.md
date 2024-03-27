@@ -4,7 +4,7 @@
 ### 0. Framing the Problem
 
  - Here is the data, what can be done?
- - Here is the problem, what data is needed to solve?    
+ - Here is the problem, what data is needed to solve?
 
 ### 1. Data Wrangling
 
